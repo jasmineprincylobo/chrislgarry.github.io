@@ -1,4 +1,4 @@
-chrislgarry.github.io
+chrisgarry.com/chrislgarry.github.io
 =====================
 
 Personal website using GitHub sites.
