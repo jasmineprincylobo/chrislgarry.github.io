@@ -1,5 +1,5 @@
 #home {
-  background-color: white;
+  background-color: #FFFFF0;
 }
 #about {
   background-color: black;
@@ -28,18 +28,23 @@
   padding: 10px 10px 20px 20px;
 }
 
+body {
+  background-color: #FFFFF0;
+}
+
 footer li, header li{
     display: inline;
 }
 
 header h1{
-  font-size: 1em;
+  font-size: 8em;
   margin: 0.67em 0;
 
   font-weight: 200;
   text-align: center;
   color: black;
-  font-family: "Orbitron", sans-serif;
+  font-family: "Lato", sans-serif;
+  
   
 }
 
