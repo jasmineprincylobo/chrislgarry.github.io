@@ -1,20 +1,62 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+  background-color: #FFFFF0;
+  margin: 0 0 100px; /* bottom = footer height */
+}
+
+footer li, header li {
+    display: inline;
+}
+
+header h1 {
+  font-size: 8em;
+  margin: 0.67em 0;
+  font-weight: 200;
+  text-align: center;
+  color: #111111;
+  font-family: "Lato", sans-serif;
+}
+
+p, footer, header li {
+    font-family: "Open Sans", sans-serif;
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    background-color: firebrick;
+    color: #FFFFF0;
+}
+
 #home {
   background-color: #FFFFF0;
+  color: #111111;
 }
-#about {
-  background-color: black;
-  color:white;
-}
-#experience {
-  background-color: white;
-}
-#skills {
-  background-color: black;
-    color:white;
 
+#about {
+  background-color: #4A0000;
+   color: #CBCFC6;
 }
+
+#experience {
+  background-color: #FFFFF0;
+  color: #111111;
+}
+
+#skills {
+  background-color: #4A0000;
+  color: #FFFFF0;
+}
+
 #contact {
-  background-color: white;
+  background-color: #FFFFF0;
 }
 
 #main-content {
@@ -23,28 +65,13 @@
 
 }
 
-.content-section{
+.content-section {
   margin: 0em;
   padding: 10px 10px 20px 20px;
 }
 
-body {
-  background-color: #FFFFF0;
-}
+ header a:link {color:#111111;text-decoration:none;outline:0;}      /* unvisited link */
+ header a:hover{color:firebrick;}  /* mouse over link */ 
 
-footer li, header li{
-    display: inline;
-}
-
-header h1{
-  font-size: 8em;
-  margin: 0.67em 0;
-
-  font-weight: 200;
-  text-align: center;
-  color: black;
-  font-family: "Lato", sans-serif;
-  
-  
-}
-
+ footer a:link {color:#FFFFF0;text-decoration:none;outline:0;}      /* unvisited link */
+ footer a:hover{color:white;}
