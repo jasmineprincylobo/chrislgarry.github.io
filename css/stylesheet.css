@@ -86,8 +86,8 @@ footer li{
   transition:.5s;
   }      /* unvisited link */
  header a:hover{color:firebrick;}  /* mouse over link */ 
- a:visited {color:#111111;}  /* visited link */
+ header a:visited {color:#111111;}  /* visited link */
 
  footer a:link {color:#FFFFF0;text-decoration:none;outline:0;}      /* unvisited link */
  footer a:hover{color:#4A1000;}
-  a:visited {color:#FFFFF0;}  /* visited link */
+ footer a:visited {color:#FFFFF0;}  /* visited link */
