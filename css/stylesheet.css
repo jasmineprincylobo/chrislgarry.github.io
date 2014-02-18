@@ -35,6 +35,11 @@ footer {
     color: #FFFFF0;
 }
 
+footer li{
+  font-size: 0.8em;
+
+}
+
 #home {
   background-color: #FFFFF0;
   color: #111111;
