@@ -41,27 +41,27 @@ footer li{
 }
 
 #home {
-  background-color: #FFFFF0;
+  background-color: none;
   color: #111111;
 }
 
 #about {
-  background-color: #4A0000;
-   color: #CBCFC6;
+  background-color: none;
+   color: #111111;
 }
 
 #experience {
-  background-color: #FFFFF0;
+  background-color: none;
   color: #111111;
 }
 
 #skills {
-  background-color: #4A0000;
-  color: #FFFFF0;
+  background-color: none;
+  color: #111111;
 }
 
 #contact {
-  background-color: #FFFFF0;
+  background-color: none;
 }
 
 #main-content {
